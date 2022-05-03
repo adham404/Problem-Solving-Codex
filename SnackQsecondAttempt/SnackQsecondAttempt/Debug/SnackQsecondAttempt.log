@@ -1,0 +1,14 @@
+﻿  SnackQsecondAttempt.cpp
+D:\CompetitiveProgramming\SnackQsecondAttempt\SnackQsecondAttempt\SnackQsecondAttempt.cpp(17,35): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\CompetitiveProgramming\SnackQsecondAttempt\SnackQsecondAttempt\SnackQsecondAttempt.cpp(24,20): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\CompetitiveProgramming\SnackQsecondAttempt\SnackQsecondAttempt\SnackQsecondAttempt.cpp(25,28): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\CompetitiveProgramming\SnackQsecondAttempt\SnackQsecondAttempt\SnackQsecondAttempt.cpp(29,61): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\CompetitiveProgramming\SnackQsecondAttempt\SnackQsecondAttempt\SnackQsecondAttempt.cpp(29,62): warning C4244: 'argument': conversion from '_Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+D:\CompetitiveProgramming\SnackQsecondAttempt\SnackQsecondAttempt\SnackQsecondAttempt.cpp(29,76): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\CompetitiveProgramming\SnackQsecondAttempt\SnackQsecondAttempt\SnackQsecondAttempt.cpp(32,39): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\CompetitiveProgramming\SnackQsecondAttempt\SnackQsecondAttempt\SnackQsecondAttempt.cpp(33,44): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  SnackQsecondAttempt.vcxproj -> D:\CompetitiveProgramming\SnackQsecondAttempt\Debug\SnackQsecondAttempt.exe
