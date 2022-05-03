@@ -6,3 +6,5 @@
         * Tags Data structure and/or Algorithm used
         * Text explanation of solution
         * Difficulty level
+
+The repositry will contain two folders one for solutions solved in python and one for solutions solved in C++.
